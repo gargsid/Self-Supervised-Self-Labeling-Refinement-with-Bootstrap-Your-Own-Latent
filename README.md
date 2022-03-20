@@ -9,5 +9,5 @@ Introduced two new loss functions for learning robust image representations for 
 Following are the screenshots from the paper
 
 <p float="left">
-  <img src="https://github.com/gargsid/Self-Supervised-Self-Labeling-Refinement-with-Bootstrap-Your-Own-Latent/blob/main/assets/byol_plots.png" width="300" height="300" />
+  <img src="https://github.com/gargsid/Self-Supervised-Self-Labeling-Refinement-with-Bootstrap-Your-Own-Latent/blob/main/assets/byol_plots.png" width="1000" height="300" />
 </p> 
